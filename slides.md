@@ -77,7 +77,10 @@ layout: center
 <img border="rounded" src="https://www.oktoberfest.net/wp-content/uploads/2013/05/historische-wiesn-7.jpg">
 
 <style>
-  h1 {
+  .slidev-layout {
+    background-color: black;
+  }
+  .slidev-layout h1 {
     color: white;
   }
 </style>
@@ -99,7 +102,10 @@ class: 'text-center'
 <img class="mx-2" border="rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg/2880px-O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg">
 
 <style>
-  h1 {
+  .slidev-layout {
+    background-color: black;
+  }
+  .slidev-layout h1 {
     color: white;
   }
 </style>
