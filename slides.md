@@ -1,49 +1,29 @@
 ---
-# try also 'default' to start simple
 theme: seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://static.dw.com/image/61636718_403.jpg
-# apply any windi css classes to the current slide
-class: 'text-center'
-# https://sli.dev/custom/highlighters.html
+background: >-
+  https://enews.wvu.edu/files/91fc22ed-43cd-42c5-a296-95f0c33ca4d8/1200x?cb=1610728894
+class: text-center
 highlighter: shiki
-# show line numbers in code blocks
 lineNumbers: false
-# some information about the slides, markdown enabled
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-# persist drawings in exports and build
 drawings:
   persist: false
-# use UnoCSS (experimental)
 css: unocss
 ---
 
-# Ocktober Fest!
 
-An english presentation
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<style>
-  p {
-    padding: 1rem;
-   	color: black;
-    font-weight: bolder;
-    background-color: white
-  }
-</style>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+## Communication Skills
+
+Joe Rogan can talk to guests for 3 hours without running out of things to say. 
+He's had huge names like Elon Musk, Miley Cyrus, and Kanye West on his podcasts
+
+I analyzed 8 things that make him so good at conversation. Here they are for you to steal:
 -->
 
 ---
@@ -51,63 +31,87 @@ layout: cover
 background: https://cyclinghellas.gr/images/history/Pythia_games_1.jpg
 ---
 
-# The Pythian Games in Delphi
-
-The birth of music festivals in Ancient Greece (6th century BC)
-
-<style>
-  p {
-    padding: 1rem;
-   	color: black;
-    font-weight: bolder;
-    background-color: white
-  }
-</style>
+# Be the question asker
 
 <!--
-The Pythian Games in Delphi, Ancient Greece, are perhaps the earliest example of festivals involving music. One of the four Panhellenic Games, the Pythian Games, held in honour of Apollo (the god of music), were set apart from the pack by the fact that they hosted musical competitions known as mousikos agon, as well as the usual athletics and shows of strength. Founded sometime in the 6th century BC, the Pythian Games, a precursor of the Olympic Games, featured dance, art and musical displays. Moving into the 10th century BC, Greece was still the hotbed of musical happenings. Every spring, the three-day Festival of the Vine Flower bought talents in togas to the city of Athens. Even more enthusiastic about boozing than modern festival-goers, the Ancient Greeks started the party with a silent drinking contest before enjoying song and dance performances.
+1. Be the question asker
+
+Put the spotlight on them and don't expect the favor back. Focus on learning something new outside
+the domains of your own life over building a connection(wich will happen anyways).
+Be interested in them, they'll be interested in you.
 -->
 
 ---
-layout: center
+layout: cover
+background: http://www.accelare.com/hubfs/Blog_Assets/Pick_A_Card.png#keepProtocol
 ---
 
-# On 12 Octuber 1810
+# 2. Find a topic that excites you
 
-<img border="rounded" src="https://www.oktoberfest.net/wp-content/uploads/2013/05/historische-wiesn-7.jpg">
+<!--
+2. Find a topic that excites you
 
-<style>
-  .slidev-layout {
-    background-color: black;
-  }
-  .slidev-layout h1 {
-    color: white;
-  }
-</style>
-
-<!-- The first Oktoberfest was held in October of 1810 to celebrate the wedding between Crown Prince Ludwig of Bavaria and Princess Therese of Saxony-Hildburghausen, according to the official Oktoberfest website. The citizens of Munich were invited to the fields in front of the city gates, now called Theresienwiese (Therese’s meadow), to join the party. It lasted for five days—October 12-17—each filled with food, beer, parades, and music. The final event was a horse race around the edge of town. -->
+The goal is to get them invested in the conversation. Treat your questions like an investigation
+of what makes this person thick. you'll know when you land on a topic they're excited about. They'll ease up, light up, and unfold. Stay there.
+-->
 
 ---
-layout: two-cols
-class: 'text-center'
+layout: cover
+background: black
 ---
 
-# <noto-pretzel /> & <noto-beer-mug />
+# 3. Laugh easily <twemoji-partying-face />
 
-<img border="rounded" src="https://www.rd.com/wp-content/uploads/2017/08/The-Real-Reason-Oktoberfest-Is-Celebrated-573755704-shutterstock-Patino.jpg?resize=1024,684">
+<!--
+Ever heard of the comic high? We humans LOVE to make people laugh. It's a sign of acceptance.
+If you can smile and give a chuckle. Its signals you are safe to talk to and enjoy their company.
+-->
 
-::right::
+---
+layout: cover
+background: http://vignette4.wikia.nocookie.net/dreamemulator/images/7/79/PSOGL2_055.png/revision/latest?cb=20121225095021
+---
 
-#  <twemoji-partying-face />
-<img class="mx-2" border="rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg/2880px-O%27zapft_is%21_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O%27zapft_is%21_Munich_5_season%2C_the_Oktoberfest_has_begun_%289855483374%29.jpg">
+# 4. Practice circling, "reminds me of..."
 
-<style>
-  .slidev-layout {
-    background-color: black;
-  }
-  .slidev-layout h1 {
-    color: white;
-  }
-</style>
+<!--
+4. Practice circling, "reminds me of..."
+Cricling is a way of listening. Instead of paraphrasing what you've been told, you
+repeat back how it made you feel or what you were reminded of. You let them know you heard them and what it MEANT to you.
 
-<!-- When you hear the word “Oktoberfest,” your mind probably conjures up images of beer, pretzels, lederhosen, and more beer.  -->
+-->
+
+---
+layout: cover
+background: black
+---
+# 5. Ask hypothetical questions.
+
+<!--
+5. Ask hypothetical questions.
+Take a tip from the table-talk cards and give "if" situations so your convo partner can draw on their imagination instead of feeling blocked by reality.
+"If you had 3 wishes ..."
+"If you were in xyz situation ..."
+"Would you rather a or b ..."
+-->
+
+---
+layout: cover
+background: black
+---
+# 6. Ask why
+
+<!--
+6. Ask why
+Asking "why" reveals someone's values and priorities. It tells you more than
+"What" ever could, and you'll get more information to ask even more questions.
+-->
+
+# Write all the time and talk about the things you've already written.
+
+<!--
+I once asked Neil deGrasse Tyson how he speaks so beautifully.
+His answer: Write all the time and talk about the things you've already written.
+
+https://twitter.com/david_perell/status/1429816263656759299
+-->
