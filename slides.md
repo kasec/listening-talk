@@ -63,6 +63,8 @@ background: black
 # 3. Laugh easily <twemoji-partying-face />
 
 <!--
+3. Laugh easily
+
 Ever heard of the comic high? We humans LOVE to make people laugh. It's a sign of acceptance.
 If you can smile and give a chuckle. Its signals you are safe to talk to and enjoy their company.
 -->
@@ -76,6 +78,7 @@ background: http://vignette4.wikia.nocookie.net/dreamemulator/images/7/79/PSOGL2
 
 <!--
 4. Practice circling, "reminds me of..."
+
 Cricling is a way of listening. Instead of paraphrasing what you've been told, you
 repeat back how it made you feel or what you were reminded of. You let them know you heard them and what it MEANT to you.
 
@@ -89,7 +92,9 @@ background: black
 
 <!--
 5. Ask hypothetical questions.
+
 Take a tip from the table-talk cards and give "if" situations so your convo partner can draw on their imagination instead of feeling blocked by reality.
+
 "If you had 3 wishes ..."
 "If you were in xyz situation ..."
 "Would you rather a or b ..."
@@ -103,11 +108,25 @@ background: black
 
 <!--
 6. Ask why
+
 Asking "why" reveals someone's values and priorities. It tells you more than
 "What" ever could, and you'll get more information to ask even more questions.
 -->
 
+---
+layout: cover
+background: black
+---
+
 # Write all the time and talk about the things you've already written.
+
+<img class="mx-2" border="rounded" src="http://www.itsazael.xyz/assets/images/pics/3.jpg" style="
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 50%;
+">
+
+- Azael Fernandez @ 2022
 
 <!--
 I once asked Neil deGrasse Tyson how he speaks so beautifully.
