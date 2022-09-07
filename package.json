@@ -1,5 +1,5 @@
 {
-  "name": "ocktobeer-fest",
+  "name": "communication-skill-presentation",
   "private": true,
   "scripts": {
     "build": "slidev build",
