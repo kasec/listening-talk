@@ -1,86 +1,39 @@
 ---
 theme: seriph
-background: >-
-  https://enews.wvu.edu/files/91fc22ed-43cd-42c5-a296-95f0c33ca4d8/1200x?cb=1610728894
 class: text-center
 highlighter: shiki
 lineNumbers: false
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
 css: unocss
 ---
 
-
-
 <!--
 ## Communication Skills
 
-Joe Rogan can talk to guests for 3 hours without running out of things to say. 
-He's had huge names like Elon Musk, Miley Cyrus, and Kanye West on his podcasts
+I’m pretty sure we have listened about communication as a skill, communication is important in our day to day, but there’s a misconception.
 
-I analyzed 8 things that make him so good at conversation. Here they are for you to steal:
--->
+Communication is not a skill not only one unless, to be good at communication we need a set of skills,
+Can we guess which are they?
 
----
-layout: cover
-background: https://cyclinghellas.gr/images/history/Pythia_games_1.jpg
----
+[pause 3 seconds]
 
-# Be the question asker
+Likely you can answer this question, is pretty easy, to be honest.
 
-<!--
-1. Be the question asker
+Speaking, Writing, Reading, and Listening.
 
-Put the spotlight on them and don't expect the favor back. Focus on learning something new outside
-the domains of your own life over building a connection(wich will happen anyways).
-Be interested in them, they'll be interested in you.
--->
+Now, the question is, can you guess which one is the most important?
 
----
-layout: cover
-background: http://www.accelare.com/hubfs/Blog_Assets/Pick_A_Card.png#keepProtocol
----
+[pause 3 seconds]
 
-# 2. Find a topic that excites you
+You also can answer it, you could say speaking or writing, and both could be correct based on different arguments. You can say speaking is the way to connect with others or express/share your ideas, also you can say writing is too important because you need to drop first your ideas and also you can express or share them.
 
-<!--
-2. Find a topic that excites you
+But what if I say the most important one is listening.
 
-The goal is to get them invested in the conversation. Treat your questions like an investigation
-of what makes this person thick. you'll know when you land on a topic they're excited about. They'll ease up, light up, and unfold. Stay there.
--->
+[pause 3 seconds]
 
----
-layout: cover
-background: black
----
+Maybe at this moment, you are wondering yourself, this guy is crazy or ok tell me why?
 
-# 3. Laugh easily <twemoji-partying-face />
-
-<!--
-3. Laugh easily
-
-Ever heard of the comic high? We humans LOVE to make people laugh. It's a sign of acceptance.
-If you can smile and give a chuckle. Its signals you are safe to talk to and enjoy their company.
--->
-
----
-layout: cover
-background: http://vignette4.wikia.nocookie.net/dreamemulator/images/7/79/PSOGL2_055.png/revision/latest?cb=20121225095021
----
-
-# 4. Practice circling, "reminds me of..."
-
-<!--
-4. Practice circling, "reminds me of..."
-
-Cricling is a way of listening. Instead of paraphrasing what you've been told, you
-repeat back how it made you feel or what you were reminded of. You let them know you heard them and what it MEANT to you.
 
 -->
 
@@ -88,49 +41,79 @@ repeat back how it made you feel or what you were reminded of. You let them know
 layout: cover
 background: black
 ---
-# 5. Ask hypothetical questions.
 
-<!--
-5. Ask hypothetical questions.
+# Listening | **The forgotten skill**
 
-Take a tip from the table-talk cards and give "if" situations so your convo partner can draw on their imagination instead of feeling blocked by reality.
-
-"If you had 3 wishes ..."
-"If you were in xyz situation ..."
-"Would you rather a or b ..."
--->
-
----
-layout: cover
-background: black
----
-# 6. Ask why
-
-<!--
-6. Ask why
-
-Asking "why" reveals someone's values and priorities. It tells you more than
-"What" ever could, and you'll get more information to ask even more questions.
--->
-
----
-layout: cover
-background: black
----
-
-# Write all the time and talk about the things you've already written.
-
-<img class="mx-2" border="rounded" src="http://www.itsazael.xyz/assets/images/pics/3.jpg" style="
+<img class="mx-auto" src="http://www.memecreator.org/static/images/memes/4193821.jpg" style="
     max-height: 200px;
     max-width: 200px;
-    border-radius: 50%;
 ">
 
-- Azael Fernandez @ 2022
+Azael Fernandez @ 2023
+
 
 <!--
-I once asked Neil deGrasse Tyson how he speaks so beautifully.
-His answer: Write all the time and talk about the things you've already written.
+And that’s what I going to do.
 
-https://twitter.com/david_perell/status/1429816263656759299
+Today I’m going to talk about Listening the forgotten skill and how being an effective listener to be a better person
+
+[Pause 5 seconds]
+
+-->
+
+---
+layout: cover
+background: https://picfiles.alphacoders.com/419/thumb-1920-419497.jpg
+---
+
+<!--
+The earliest language of communication skill learned is listening, when we are born we cannot do anything but cry and eat. 
+Let's say these are basic needs.
+We are raised and the first income we receive is words and a lot of words
+
+And what does every child do with it?
+
+We try to concentrate and process these words that the speaker is throwing at us, this sophisticated mental process that demands energy and discipline is called listening.
+-->
+
+---
+layout: cover
+---
+
+<!--
+The average person spends 45% daily listening or hearing we can say it, listening is connecting information or associating with something else.
+
+Advantages of effective Listening
+
+It helps to increase productivity and do things perfectly without following misconceptions.
+It helps you to create stronger relationships.
+By listening you gain new perspectives and useful information that you can use in communication
+
+-->
+
+---
+layout: cover
+background: https://www.stevegutzler.com/wp-content/uploads/2018/07/AdobeStock_112948164-1.jpeg
+---
+
+<!--
+Some recommendations:
+
+Give your full attention, avoid or eliminate distractions, and turn off your phone if necessary
+Resist the temptation to interrupt.
+Aks for more details
+Offer feedback when appropriate
+
+The advantage to listen first gives you time to think about what you are going to say, besides the speaker giving you details, we are more able to choose our responses rather than react automatically, responding to what is real, rather than emotions and misconceptions.
+
+-->
+
+---
+layout: cover
+background: black
+---
+***Information is power. Effective listeners are able to concentrate and find the most valid information in whatever they hear, therefore, effective listeners are powerful people.***
+<!--
+Information is power. Effective listeners are able to concentrate and find the most valid information in whatever they hear, therefore, effective listeners are powerful people.
+
 -->
